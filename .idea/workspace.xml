@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="997fe8b6-927e-4de8-9f6e-524b9c118a58" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lmpr/prestigebot/Utils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lmpr/prestigebot/data/Brain.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lmpr/prestigebot/data/Msg.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lmpr/prestigebot/listeners/MessageListener.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/lmpr/prestigebot/PrestigeBot.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/lmpr/prestigebot/PrestigeBot.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/lmpr/prestigebot/Token.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/lmpr/prestigebot/Token.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin Object" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -57,6 +63,27 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.lmpr.prestigebot.data" />
+      <recent name="com.lmpr.prestigebot" />
+      <recent name="com.lmpr.prestigebot.listeners" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PrestigeBot" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lmpr.prestigebot.PrestigeBot" />
+      <module name="PrestigeBot.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.PrestigeBot" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +94,7 @@
       <updated>1657819713145</updated>
       <workItem from="1657819802386" duration="1051000" />
       <workItem from="1658514687164" duration="2806000" />
-      <workItem from="1658517540202" duration="204000" />
+      <workItem from="1658517540202" duration="6245000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1658514732056</created>
@@ -104,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658517353936</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test">
+      <created>1658518013037</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658518013037</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
